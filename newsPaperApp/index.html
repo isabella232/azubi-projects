@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" ></script>
+</head>
+<body>
+    
+<h1 class="headline">Hello</h1>
+<h2 class="headline">Hello again</h2>
+<h2 class="not_headline">Hello again again</h3>
+<script>
+$(".headline").css("color", "red");
+</script>
+
+<button id="showA"> show a</button>
+<button id="showB"> show b</button>
+<article class="screen" id="screen_A"> hi there from A</article>
+<article class="screen" id="screen_B"> hi there from B</article>
+<script>
+    $(".screen").hide();
+    $("#showA").click(() => {
+        $("#screen_A").show();
+    });
+
+    $("#showB").click(() => {
+        $("#screen_B").show();
+    });
+    </script>
+</body>
+</html>
