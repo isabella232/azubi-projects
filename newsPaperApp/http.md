@@ -61,4 +61,14 @@ welchen Statuscode hat der Server www.example.org gesendet? Und was war der Inha
 Aufgabe 4
 ---------
 
-Zeit eine eigene Anfrage zu machen! 
+Damit Resourcen im Internet addressieren werden können haben diese eine IP Adresse. Wenn du lokal auf deinen Rechner einen webserver laufen hast, hat dieser auch eine IP Adresse: 127.0.0.1! Umgangssprachlich sagt man dazu auch "localhost" - weil der Host eben lokal ist.
+
+Sich Adressen aus Zahlen zu merken ist nicht so praktisch. Daher gibt es Domains. "www.google.de" ist eine solche Domain. Domains werden von einer zentralen Organisation verwaltet. Wenn dein Browser eine Anfrage nach "www.google.de" macht, wird erstmal versucht für die Domain die IP Adresse herauszufinden. Wenn eine IP Adresse gefunden wurde, dann wird die Verbindung aufgebaut und du bekommst die Suchwebseite zu sehen.
+
+Im Internet reden wir jedoch von einer URL - Unified Resource Locator. Recherchiere die einzelnen Bestandteile einer URL:
+
+- www.google.de
+- https://www.google.de
+- https://de.wikipedia.org/wiki/Demo
+- https://github.com/co0p?tab=repositories&q=test&type=&language=
+
