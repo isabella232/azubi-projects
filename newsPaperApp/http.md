@@ -8,6 +8,8 @@ Aufgabe 1
 
 Speichere folgenden Inhalt in einer neuen Datei (z.b. test.html), öffne diese Datei im Browser, öffne die Entwickertools und dann die Netzwerk-Ansicht. Aktualisiere deinen Browser. Wie viele Anfragen siehst du?
 
+( kopier die Daten von hier: https://github.com/as-ideas/azubi-projects/blob/master/newsPaperApp/http.md)
+
 ```html
 <!DOCTYPE html>
 <head>
