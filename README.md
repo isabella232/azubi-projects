@@ -1,6 +1,6 @@
 
 
-Diese Repo ist für die Ausbildung gedacht. Azubis erhalten die Aufgaben und müssen diese in Projektarbeit selbst lösen
+Dieses Repo ist für die Ausbildung gedacht. Azubis erhalten Aufgaben und müssen diese in Projektarbeit selbst lösen.
 
 newsPaperApp
 ------------
@@ -10,15 +10,11 @@ newsPaperApp
 - deployment mit heroku
 - testing: unit, acceptance tests
 
-Instagram Crawler 
------------------
-
-1. Iteration, cli
-
-2. Iteration, db
-
-3. Iteration, production
-
-
-
-
+weltCrawler
+------------
+- java
+- gradle
+- xml/rss
+- http
+- webservice
+- persistence
