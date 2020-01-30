@@ -1,7 +1,7 @@
 ## Command Line Interface (CLI)
 
 You know what a shell is, right?
-Ever used tools like mv, cp, rm, mkdir?
+Ever used tools like `mv`, `cp`, `rm`, `mkdir`?
 They are programs, apps, commands .. you name it.
 
 They don't have a graphical interface to click at.
