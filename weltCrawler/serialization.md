@@ -6,11 +6,11 @@ And they resume things by loading data from some place. This is for example how 
 
 1. Execute Savegame.java. How does it save your game? Try to comprehend the code, add new attributes to the savegame.
 And .. you did try to cheat, didn't you?!
-Why not set your level right to 2.147.483.101?
+Why not set your level right to 2.147.483.101 by modifying the savegame? Will you succeed?
 
 2. Files. When speaking of files, which types do we typically distinguish in computer science? Which one is `savegame.dat`?
 
 Guess what! When exchanging data with foreign applicatings .. one side has to serialize, the other one to deserialize the data. Welcome to IO, input output!
 
-3. In order to comprehend each other, communicating applications need a common language. The same language! In fact .. the same format.
-Which data formats do you know? Where are the differences? Is HTML a data format? As a programmer, which format would you prefer and why?
+3. In order to comprehend each other, communicating applications need a common language. The same language! In fact .. the same format when sharing data!
+Which data formats do you know? Where are the differences? Is HTML a data exchange format? As a programmer, which formats would you prefer and why?
