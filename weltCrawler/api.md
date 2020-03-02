@@ -51,7 +51,7 @@ Please chance your health endpoint response to use json to machines and other pr
 }
 ```
 
-In order to solve the conversion of your object to an json, please add a new dependency implementation(“org.eclipse.jetty:jetty-util:9.4.27.v20200227”) and 
+In order to solve the conversion of your object to an json, please add a new dependency implementation(“org.eclipse.jetty:jetty-util-ajax:9.4.27.v20200227”) and 
 use the class https://www.eclipse.org/jetty/javadoc/current/org/eclipse/jetty/util/ajax/JSON.html
 
 
