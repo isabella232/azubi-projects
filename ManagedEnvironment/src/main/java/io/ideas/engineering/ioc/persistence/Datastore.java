@@ -6,6 +6,13 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.concurrent.ConcurrentHashMap;
 
+/**
+ * This is a heavy lifting datastore with highly secured authorisation rules and network security in place.
+ * Creation of data schemes is handled automatically but it takes about 5 minutes.
+ * Memory footprint is ludicrous (> 2gb) better use singleton pattern.
+ * 
+ * No connectivity from your grandma's desktop PC!
+ */
 @Repository
 public class Datastore {
 
