@@ -18,3 +18,13 @@ weltCrawler
 - http
 - webservice
 - persistence
+
+ManagedEnvironment
+------------------
+- inversion of control
+- dependency injection
+- test pyramid
+- java unit test without dependencies
+  - isolation, state
+- java unit tests with dependencies
+  - mocking and stubbing

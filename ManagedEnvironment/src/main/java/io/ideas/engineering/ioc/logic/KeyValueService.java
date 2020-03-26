@@ -23,7 +23,11 @@ public class KeyValueService {
 
     public void persistValue(String key, String value) {
         this.requireValidKey(key);
-        this.datastore.saveValue(key, value);
+        try {
+            this.datastore.saveValue(key, value);
+        } catch (IllegalArgumentException e) {
+            this.datastore.saveValue(key, "*****");
+        }
     }
 
     public void deleteValue(String key) {
