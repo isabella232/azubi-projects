@@ -28,3 +28,9 @@ ManagedEnvironment
   - isolation, state
 - java unit tests with dependencies
   - mocking and stubbing
+
+
+covidTracker
+------------
+
+GPS, testing, software building on your own... saving the world.
