@@ -44,3 +44,17 @@ Fragen
 
 
  -- easy peasy :-)   
+ 
+ 
+BattlePlan
+----------
+ 
+*first day*
+
+- Male auf Papier (oder digital) deine technischen Überlegungen
+- Male Sequenzdiagramme über die Kommunikation der einzelen Komponenten (User, FE, BE, DB)
+- Überlege dir das Datenmodell, mach mal ein ER-Diagramm falls es Sinn macht
+- Erzeuge github issues, die grob deine weiteren Aktivitäten sichtbar machen
+ 
+ 
+ 
