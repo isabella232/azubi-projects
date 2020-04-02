@@ -4,7 +4,7 @@ CovidTracker
 _The app that keeps you safe_
 
 
-Baue eine Softwarelösung für die aktuelle Covid Pandemie! Helfe Kontaktpersonen zu finden, die mit positiv getesteten Personen Kontakt hatten. 
+Baue eine Softwarelösung für die aktuelle Covid Pandemie! Helfe Kontaktpersonen herauszufinden, die mit positiv getesteten Personen Kontakt hatten oder selbst positiv wurden.
 
 Aufgaben
 --------
@@ -16,7 +16,7 @@ Als CovidTracker Nutzer möchte ich informiert werden, wenn in meiner näheren U
 
 **Meldung**
 
-Als CovidTracker Nutzer möchte ich meinem Netzwerk darüber informieren, dass ich positiv getestet bin.
+Als CovidTracker Nutzer möchte ich mein Netzwerk darüber informieren, dass ich positiv getestet bin bzw. selbst benachrichtigt werden über _Push Notifications_ vom Browser!
 
 
 **Verlauf**
