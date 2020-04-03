@@ -56,5 +56,8 @@ BattlePlan
 - Überlege dir das Datenmodell, mach mal ein ER-Diagramm falls es Sinn macht
 - Erzeuge github issues, die grob deine weiteren Aktivitäten sichtbar machen
  
- 
+*second day*
+- Schreibe detaillierte Use-Case zu deinen Usecases :) Was ist ein detaillierter use-case? https://www.dummies.com/business/business-strategy/how-to-create-use-case-description-for-your-business-analysis-report/
+
+
  
