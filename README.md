@@ -32,5 +32,9 @@ ManagedEnvironment
 
 covidTracker
 ------------
-
-GPS, testing, software building on your own... saving the world.
+- planning an app
+- detailled usecases
+- accessing browser api
+- protecting identity
+- geo location action
+- ... and saving the world!
